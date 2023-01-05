@@ -1,0 +1,16 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "citeKey",
+      "format": "pandoc",
+      "cslStyle": "university-of-york-apa"
+    }
+  ],
+  "exportFormats": [],
+  "shouldShowCiteSuggest": false
+}

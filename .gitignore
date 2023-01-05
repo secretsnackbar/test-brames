@@ -1,0 +1,17 @@
+/.DS_Store
+
+# Private/*
+# Calendar/*
+# Readwise/*
+# Databases/*
+# Databases/CRM/*
+
+
+# images
+# *.png
+# *.jpg
+
+# audio
+# *.wav
+# *.m4a
+# *.mp3

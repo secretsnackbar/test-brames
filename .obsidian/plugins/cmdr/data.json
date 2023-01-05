@@ -1,0 +1,72 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:7b164c2a-2d52-47cd-8785-7084c4b085f6",
+      "icon": "bookmark-plus",
+      "name": "QuickAdd: Add to Project Scratchpad",
+      "mode": "any",
+      "color": "#bababa"
+    },
+    {
+      "id": "quickadd:choice:ac457949-03eb-4bdb-b6c2-b79781d35a8a",
+      "icon": "sprout",
+      "name": "QuickAdd: Create New Project",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:3b57f446-784e-41ce-9a02-381074bfa525",
+      "icon": "box-select",
+      "name": "QuickAdd: Add to Project Kanban",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "brush",
+      "name": "Linter: Lint the current file",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:94b67496-7eef-4e51-9054-cbf04cdf8bc8",
+      "icon": "at-sign",
+      "name": "QuickAdd: Capture Thought",
+      "mode": "any"
+    },
+    {
+      "id": "luhman:insert-zettel-link",
+      "icon": "link-2",
+      "name": "Luhman: Insert Zettel Link",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:7d1318ec-92bb-4054-a68b-70da6f584544",
+      "icon": "copyright",
+      "name": "QuickAdd: Move Zettel to Private",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

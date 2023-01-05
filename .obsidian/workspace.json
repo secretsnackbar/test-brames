@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f2da537d38fa6643",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fde841227753554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7779fed8ad75a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adc4fd916987898c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1fc648f46914c4",
+        "type": "tabs",
+        "dimension": 79.53703703703704,
+        "children": [
+          {
+            "id": "cdbe46f476d5c797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Readwise",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "885911e69901227d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4af83666f6f49517",
+        "type": "tabs",
+        "dimension": 20.462962962962962,
+        "children": [
+          {
+            "id": "615cd7309793c2a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "starred",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d51c28db626a700f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2837026535a9eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1a900f5bead1b0",
+        "type": "tabs",
+        "dimension": 66.2962962962963,
+        "children": [
+          {
+            "id": "c6b1d00458e0be0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee82127d04d5085f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e5fe5bc3d2c62bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adac87bf000fcff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "c102a50492c64997",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "579a57490c31c46e",
+        "type": "tabs",
+        "dimension": 33.7037037037037,
+        "children": [
+          {
+            "id": "b6f8141af5bfec88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "cmdr:QuickAdd: Create New Project": false,
+      "publish:Publish changes": true,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
+      "command-palette:Open command palette": true,
+      "zk-prefixer:Create new unique note": true,
+      "random-note:Open random note": true,
+      "obsidian-map-view:Open map view": false,
+      "periodic-notes:Open today": false,
+      "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:Linter: Lint the current file": false,
+      "cmdr:QuickAdd: Capture Thought": false,
+      "cmdr:Luhman: Insert Zettel Link": false,
+      "open-vscode:VSCode": false,
+      "cmdr:QuickAdd: Move Zettel to Private": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "885911e69901227d",
+  "lastOpenFiles": [
+    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
+    "README.md",
+    "Readwise-Example/Readwise-Example.md",
+    "_tutorial/_tutorial.md",
+    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
+    "_PARA/Projects/rs/rs.md",
+    "_PARA/Projects/rs/Resources.md",
+    "_PARA/Projects/rs/Kanban.md",
+    "_PARA/Projects/rs/Scratchpad.md",
+    "202212151455.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": null,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "Private/Attachments",
+  "promptDelete": false
+}
